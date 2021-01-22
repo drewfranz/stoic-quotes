@@ -37,3 +37,13 @@
 .quote-container .quote-author::before {
   content: '\2014\00A0';
 }
+
+@media(max-width: 720px) {
+  .App .quote-container {
+    padding: 2rem;
+  }
+
+  .quote-container .quote-body {
+    font-size: 2.5rem;
+  }
+}

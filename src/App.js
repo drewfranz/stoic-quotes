@@ -16,6 +16,7 @@ export default function App() {
   const [quotes, setQuotes] = useState([{}]);
 
   useEffect(() => {
+    document.title = "Stoic Quotes";
     setQuotes(quotedJson.quotes);
   }, [setQuotes])
 
