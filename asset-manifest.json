@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stoic-quotes/static/css/main.479bd6e6.chunk.css",
+    "main.css": "/stoic-quotes/static/css/main.ad976108.chunk.css",
     "main.js": "/stoic-quotes/static/js/main.4c89ff0d.chunk.js",
     "main.js.map": "/stoic-quotes/static/js/main.4c89ff0d.chunk.js.map",
     "runtime-main.js": "/stoic-quotes/static/js/runtime-main.4bb7aec5.js",
@@ -8,14 +8,14 @@
     "static/js/2.14ec0097.chunk.js": "/stoic-quotes/static/js/2.14ec0097.chunk.js",
     "static/js/2.14ec0097.chunk.js.map": "/stoic-quotes/static/js/2.14ec0097.chunk.js.map",
     "index.html": "/stoic-quotes/index.html",
-    "static/css/main.479bd6e6.chunk.css.map": "/stoic-quotes/static/css/main.479bd6e6.chunk.css.map",
+    "static/css/main.ad976108.chunk.css.map": "/stoic-quotes/static/css/main.ad976108.chunk.css.map",
     "static/js/2.14ec0097.chunk.js.LICENSE.txt": "/stoic-quotes/static/js/2.14ec0097.chunk.js.LICENSE.txt",
     "static/media/App.css": "/stoic-quotes/static/media/Lora-VariableFont_wght.86de6b10.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.4bb7aec5.js",
     "static/js/2.14ec0097.chunk.js",
-    "static/css/main.479bd6e6.chunk.css",
+    "static/css/main.ad976108.chunk.css",
     "static/js/main.4c89ff0d.chunk.js"
   ]
 }
