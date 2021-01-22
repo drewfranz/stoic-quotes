@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Lora';
+  src: local('Lora'), url(./fonts/Lora-VariableFont_wght.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora Italic';
+  src: local('Lora Italic'), url(./fonts/Lora-Italic-VariableFont_wght.ttf) format('truetype');
+}
+
+.App {
+  background-color: #282c34;
+  background: radial-gradient(#444, #000);
+  min-height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
+
+.App .quote-container {
+  font-family: 'Lora', 'Times New Roman', Times, serif;
+  padding: 5rem;
+}
+
+.quote-container .quote-body {
+  font-family: 'Lora Italic';
+  font-size: 4rem;
+}
+
+.quote-container .quote-author {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+.quote-container .quote-author::before {
+  content: '\2014\00A0';
+}
