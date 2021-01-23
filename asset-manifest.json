@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stoic-quotes/static/css/main.6080ebbf.chunk.css",
-    "main.js": "/stoic-quotes/static/js/main.4d10c9b9.chunk.js",
-    "main.js.map": "/stoic-quotes/static/js/main.4d10c9b9.chunk.js.map",
+    "main.js": "/stoic-quotes/static/js/main.f54855d5.chunk.js",
+    "main.js.map": "/stoic-quotes/static/js/main.f54855d5.chunk.js.map",
     "runtime-main.js": "/stoic-quotes/static/js/runtime-main.4bb7aec5.js",
     "runtime-main.js.map": "/stoic-quotes/static/js/runtime-main.4bb7aec5.js.map",
     "static/js/2.13f3b687.chunk.js": "/stoic-quotes/static/js/2.13f3b687.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.4bb7aec5.js",
     "static/js/2.13f3b687.chunk.js",
     "static/css/main.6080ebbf.chunk.css",
-    "static/js/main.4d10c9b9.chunk.js"
+    "static/js/main.f54855d5.chunk.js"
   ]
 }
