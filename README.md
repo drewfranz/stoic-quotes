@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Stoic Scripts
+
+This is a simple React.js app that shows you a classic quote from one of the Stoics from the past.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
