@@ -2,7 +2,7 @@
   "name": "stoic-quotes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://drewfranz.github.io/stoic-quotes",
+  "homepage": "https://www.stoicquotes.app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
