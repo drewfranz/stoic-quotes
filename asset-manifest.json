@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/stoic-quotes/static/css/main.4ad3847c.chunk.css",
-    "main.js": "/stoic-quotes/static/js/main.97e34135.chunk.js",
-    "main.js.map": "/stoic-quotes/static/js/main.97e34135.chunk.js.map",
-    "runtime-main.js": "/stoic-quotes/static/js/runtime-main.4bb7aec5.js",
-    "runtime-main.js.map": "/stoic-quotes/static/js/runtime-main.4bb7aec5.js.map",
-    "static/js/2.13f3b687.chunk.js": "/stoic-quotes/static/js/2.13f3b687.chunk.js",
-    "static/js/2.13f3b687.chunk.js.map": "/stoic-quotes/static/js/2.13f3b687.chunk.js.map",
-    "index.html": "/stoic-quotes/index.html",
-    "static/css/main.4ad3847c.chunk.css.map": "/stoic-quotes/static/css/main.4ad3847c.chunk.css.map",
-    "static/js/2.13f3b687.chunk.js.LICENSE.txt": "/stoic-quotes/static/js/2.13f3b687.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/stoic-quotes/static/media/Lora-VariableFont_wght.86de6b10.ttf"
+    "main.css": "/static/css/main.db7bbed7.chunk.css",
+    "main.js": "/static/js/main.4fdf1bc6.chunk.js",
+    "main.js.map": "/static/js/main.4fdf1bc6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.965dcfcc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.965dcfcc.js.map",
+    "static/js/2.13f3b687.chunk.js": "/static/js/2.13f3b687.chunk.js",
+    "static/js/2.13f3b687.chunk.js.map": "/static/js/2.13f3b687.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.db7bbed7.chunk.css.map": "/static/css/main.db7bbed7.chunk.css.map",
+    "static/js/2.13f3b687.chunk.js.LICENSE.txt": "/static/js/2.13f3b687.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Lora-VariableFont_wght.86de6b10.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bb7aec5.js",
+    "static/js/runtime-main.965dcfcc.js",
     "static/js/2.13f3b687.chunk.js",
-    "static/css/main.4ad3847c.chunk.css",
-    "static/js/main.97e34135.chunk.js"
+    "static/css/main.db7bbed7.chunk.css",
+    "static/js/main.4fdf1bc6.chunk.js"
   ]
 }
